@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- MAIN THEME COLORS (Green + Yellow mix like Genshin image) -->
+    <color name="toolbar_background">#1FAE82</color>        <!-- Green -->
+    <color name="launcher_background">#A9D56F</color>       <!-- Yellowish green -->
+
+    <!-- RECORD BACKGROUNDS (replace blue shades) -->
+    <color name="record_background_odd">#C7EFA5</color>     <!-- light green -->
+    <color name="record_background_even">#F6F1A3</color>    <!-- soft yellow -->
+
+    <!-- SCREEN BACKGROUND -->
+    <color name="background">#F7FFFF</color>               <!-- keep same -->
+
+    <!-- TABLE HEADER -->
+    <color name="tableheader_background">@color/cardview_light_background</color>
+
+    <!-- ENABLE/DISABLE colors (text-related, don't change) -->
+    <color name="enabled_color">@color/text_color</color>
+    <color name="disabled_color">@color/gray</color>
+
+    <!-- CARD TITLE (keep same as original) -->
+    <color name="cardview_title_color">#485460</color>
+
+    <!-- INDEX COLOR (change from blue/purple to greenish tone) -->
+    <color name="index_color">#4A7C2E</color>
+
+    <!-- BUTTONS / ICONS -->
+    <color name="add_button_background">@color/white</color>
+    <color name="dark_icon_background">#5E5E5E</color>
+    <color name="drawer_icon">@color/white</color>
+
+    <!-- ICON enable/disable -->
+    <color name="icon_enable">#0DD815</color>
+    <color name="icon_disable">@color/gray</color>
+
+    <!-- DIALOG TITLE (was blue, now green) -->
+    <color name="dialog_title_color">#1FAE82</color>
+
+    <!-- SPINNER -->
+    <color name="daily_calorie_spinner_selected">#757575</color>
+    <color name="daily_calorie_spinner_dropdown">#A9D56F</color>
+
+    <!-- DRAWER -->
+    <color name="drawer_item_text_color">#FF000000</color>  <!-- keep text color -->
+    <color name="drawer_background">#FCD26F</color>         <!-- already yellow -->
+
+    <!-- COMMON -->
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#bababa</color>
+
+</resources>
